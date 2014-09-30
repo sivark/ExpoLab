@@ -28,7 +28,7 @@ $$\textrm{Doubling time (in number of periods)} \approx \dfrac{0.7}{\textrm{rate
 
 2. The United States budget deficit today is about \$ 1 trillion. How long does it take for the money _you owe to the bank_ to become as large a number as the US budget deficit is today.
 
->	_"There are $10^11$ stars in the galaxy. That used to be a huge number. But it's only a hundred billion. It's less than the national deficit! We used to call them astronomical numbers. Now we should call them economical numbers."_ \newline
+>	_"There are $10^{11}$ stars in the galaxy. That used to be a huge number. But it's only a hundred billion. It's less than the national deficit! We used to call them astronomical numbers. Now we should call them economical numbers."_ \newline
 \hfill -- Richard Feynman (Physicist, and smart-ass, 1918-1988)
 
 ## Exercise 3

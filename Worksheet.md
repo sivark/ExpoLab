@@ -18,7 +18,7 @@ Take sheets of paper: Printing paper and newspaper. Fold it as many times as you
 
 3. What is the thickness of one sheet of paper? Using that, explain your observations in Q1, based on your model in Q2.
 
-4. If you had to keep folding paper till the thickness of the paper became the distance between the earth and the moon, then how many times do you need to fold it? (The distance between the earth and the moon is approximately $384,000 Km$, on average.)^[Hint: Douglas Adams might have been on to something ;-)]
+4. If you had to keep folding paper till the thickness of the paper became the distance between the earth and the moon, then how many times do you need to fold it? (The distance between the earth and the moon is approximately $384,000$ km, on average.)^[Hint: Douglas Adams might have been on to something ;-)]
 
 ## Exercise 2
 

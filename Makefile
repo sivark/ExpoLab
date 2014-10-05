@@ -3,15 +3,7 @@
 .PRECIOUS:
 
 .md.html:
-	pandoc --toc --mathjax="http://cdn.mathjax.org/mathjax/latest/MathJax.js"\
-          --template=template.html\
-           -s -t html5\
-          -f markdown --section-divs -V footertext="A sample footer" -o $@ $<
-
-.pandoc.html:
-	pandoc --toc --mathjax="http://cdn.mathjax.org/mathjax/latest/MathJax.js"\
-          --template=template.html\
-           -s -t html5\
+	pandoc --toc -s --mathjax -t html5\
           -f markdown --section-divs -V footertext="A sample footer" -o $@ $<
 
 .md.pdf:

@@ -20,7 +20,9 @@ siva _at_ physics _dot_ utexas _dot_ edu
 
 ---
 
-I use a wonderful tool called [Pandoc](http://johnmacfarlane.net/pandoc/) to generate PDFs from markdown.
+
+I use a wonderful tool called [Pandoc](http://johnmacfarlane.net/pandoc/) to generate PDFs or HTML from markdown. The HTML file in this directory should reflect the most recent version of the worksheet. 
+
 
 (C) Sivaramakrishnan Swaminathan 2014
 

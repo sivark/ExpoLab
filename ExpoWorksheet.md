@@ -22,6 +22,9 @@ Take sheets of paper: Printing paper and newspaper. Fold it as many times as you
 
 ## Exercise 2
 
+>	_"Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it."_ \newline
+\hfill -- incorrectly attributed to Albert Einstein
+
 1. Say you take a \$ 1 million home loan from a bank. The rate of interest (growth rate) is 7% per annum. Suppose you forgot to pay your installments (_oops!_) approximately how many years will it take for the amount you owe to double, to \$ 2 million? Is that compatible with the _"rule of seventy"?_
 
 $$\textrm{Doubling time (in number of periods)} \approx \dfrac{0.7}{\textrm{rate of growth (in one period)}}$$

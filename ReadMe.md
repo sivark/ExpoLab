@@ -10,13 +10,13 @@ This class tries to get them to appreciate a few things:
 
 1. How fast an exponential really grows
 2. The idea of Fermi problems.
-3. Appreciating how nature has a "fractal" structure, where something interesting goes on at every scale. As humans, we're usually think linearly along the scale we're used to (about 1 foot or 1 metre). It's dofficult for us to grasp the very big or the very small, and understanding the exponential helps us with that.
+3. Appreciating how nature has a "fractal" structure, where something interesting goes on at every scale. As humans, we're usually think linearly along the scale we're used to (about 1 foot or 1 metre). It's difficult for us to grasp the very big or the very small, and understanding the exponential helps us with that.
 
 
 I wonder what other interesting videos/visuals could be incorporated into the class, that lets humans *grasp* the notion of exponential sizes and growths. Eg: Maybe a video of dividing bacteria, etc.
 
 If you have any nice ideas, I would love to hear from you. Contact me at:
-siva _at_ physics _dot_ utexas _dot_ edu
+sivaramakrishnan _at_ utexas _dot_ edu
 
 ---
 
